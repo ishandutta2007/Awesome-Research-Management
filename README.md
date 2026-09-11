@@ -78,58 +78,58 @@ These platforms aggregate, enrich, showcase, and evaluate scholarly assets acros
 
 *Open-source platforms enable institutions to maintain sovereign control over their research data, avoid commercial vendor lock-in, and integrate with open scholarly standards. Below, projects are ranked in descending order by GitHub stargazers count.*
 
-- **[CKAN](https://github.com/ckan/ckan)** [![GitHub stars](https://img.shields.io/github/stars/ckan/ckan?style=social&color=white)](https://github.com/ckan/ckan/stargazers)  
+- **[CKAN](https://github.com/ckan/ckan)** [![GitHub_Stars](https://img.shields.io/github/stars/ckan/ckan?style=social&color=white)](https://github.com/ckan/ckan/stargazers)  
   🌐 The world's leading open-source data portal and research data management platform, widely used by governments, research consortia, and universities to catalog, publish, and share complex research datasets.
 
-- **[DSpace](https://github.com/DSpace/DSpace)** [![GitHub stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)  
+- **[DSpace](https://github.com/DSpace/DSpace)** [![GitHub_Stars](https://img.shields.io/github/stars/DSpace/DSpace?style=social&color=white)](https://github.com/DSpace/DSpace/stargazers)  
   🏛️ The most widely deployed open-source institutional repository platform worldwide. Powers academic output management, open access dissemination, thesis preservation, and institutional publishing.
 
-- **[Dataverse](https://github.com/IQSS/dataverse)** [![GitHub stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers)  
+- **[Dataverse](https://github.com/IQSS/dataverse)** [![GitHub_Stars](https://img.shields.io/github/stars/IQSS/dataverse?style=social&color=white)](https://github.com/IQSS/dataverse/stargazers)  
   💾 Harvard's open-source research data repository software developed by IQSS. Automates citation generation, DOI minting, data exploration, and compliance with FAIR data sharing principles.
 
-- **[Zenodo](https://github.com/zenodo/zenodo)** [![GitHub stars](https://img.shields.io/github/stars/zenodo/zenodo?style=social&color=white)](https://github.com/zenodo/zenodo/stargazers)  
+- **[Zenodo](https://github.com/zenodo/zenodo)** [![GitHub_Stars](https://img.shields.io/github/stars/zenodo/zenodo?style=social&color=white)](https://github.com/zenodo/zenodo/stargazers)  
   🚀 CERN's flagship generalist research repository codebase built on the Invenio framework. Enables researchers globally to deposit papers, datasets, software packages, and presentations with immediate DOIs.
 
-- **[Open Journal Systems (OJS)](https://github.com/pkp/ojs)** [![GitHub stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers)  
+- **[Open Journal Systems (OJS)](https://github.com/pkp/ojs)** [![GitHub_Stars](https://img.shields.io/github/stars/pkp/ojs?style=social&color=white)](https://github.com/pkp/ojs/stargazers)  
   📰 The leading open-source journal publishing and editorial management platform developed by the Public Knowledge Project (PKP), powering over 30,000 diamond open-access academic journals globally.
 
-- **[Open Science Framework (OSF)](https://github.com/CenterForOpenScience/osf.io)** [![GitHub stars](https://img.shields.io/github/stars/CenterForOpenScience/osf.io?style=social&color=white)](https://github.com/CenterForOpenScience/osf.io/stargazers)  
+- **[Open Science Framework (OSF)](https://github.com/CenterForOpenScience/osf.io)** [![GitHub_Stars](https://img.shields.io/github/stars/CenterForOpenScience/osf.io?style=social&color=white)](https://github.com/CenterForOpenScience/osf.io/stargazers)  
   🔬 Comprehensive open research workflow management platform by the Center for Open Science (COS). Facilitates pre-registration, active project collaboration, data synchronization, and preprints.
 
-- **[Invenio](https://github.com/inveniosoftware/invenio)** [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=social&color=white)](https://github.com/inveniosoftware/invenio/stargazers)  
+- **[Invenio](https://github.com/inveniosoftware/invenio)** [![GitHub_Stars](https://img.shields.io/github/stars/inveniosoftware/invenio?style=social&color=white)](https://github.com/inveniosoftware/invenio/stargazers)  
   🧩 CERN's core framework and enterprise digital architecture powering large-scale research digital repositories, integrated library systems, and scholarly output discovery engines.
 
-- **[ORCID Source](https://github.com/ORCID/ORCID-Source)** [![GitHub stars](https://img.shields.io/github/stars/ORCID/ORCID-Source?style=social&color=white)](https://github.com/ORCID/ORCID-Source/stargazers)  
+- **[ORCID Source](https://github.com/ORCID/ORCID-Source)** [![GitHub_Stars](https://img.shields.io/github/stars/ORCID/ORCID-Source?style=social&color=white)](https://github.com/ORCID/ORCID-Source/stargazers)  
   🪪 Core open-source registry codebase for the Open Researcher and Contributor ID (ORCID) platform, ensuring persistent digital identifiers for scholarly authors worldwide.
 
-- **[Archivematica](https://github.com/artefactual/archivematica)** [![GitHub stars](https://img.shields.io/github/stars/artefactual/archivematica?style=social&color=white)](https://github.com/artefactual/archivematica/stargazers)  
+- **[Archivematica](https://github.com/artefactual/archivematica)** [![GitHub_Stars](https://img.shields.io/github/stars/artefactual/archivematica?style=social&color=white)](https://github.com/artefactual/archivematica/stargazers)  
   📦 Standards-compliant open-source digital preservation system used by university libraries and research archives to maintain long-term, standards-based preservation (OAIS) for research assets.
 
-- **[VIVO](https://github.com/vivo-project/VIVO)** [![GitHub stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers)  
+- **[VIVO](https://github.com/vivo-project/VIVO)** [![GitHub_Stars](https://img.shields.io/github/stars/vivo-project/VIVO?style=social&color=white)](https://github.com/vivo-project/VIVO/stargazers)  
   🌐 Semantically driven research information management system (CRIS) representing scholarship and researcher profiles on the semantic web using linked open data and scholarly ontologies.
 
-- **[Samvera Hyrax](https://github.com/samvera/hyrax)** [![GitHub stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers)  
+- **[Samvera Hyrax](https://github.com/samvera/hyrax)** [![GitHub_Stars](https://img.shields.io/github/stars/samvera/hyrax?style=social&color=white)](https://github.com/samvera/hyrax/stargazers)  
   🏗️ Feature-rich Ruby on Rails digital repository framework combining Fedora Commons, Solr, and Blacklight to build custom institutional repositories and research collections.
 
-- **[InvenioRDM](https://github.com/inveniosoftware/invenio-app-rdm)** [![GitHub stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers)  
+- **[InvenioRDM](https://github.com/inveniosoftware/invenio-app-rdm)** [![GitHub_Stars](https://img.shields.io/github/stars/inveniosoftware/invenio-app-rdm?style=social&color=white)](https://github.com/inveniosoftware/invenio-app-rdm/stargazers)  
   ✨ Turnkey, next-generation research data management repository platform co-developed by CERN, Northwestern, and European universities for high-volume research storage.
 
-- **[Dissemin](https://github.com/dissemin/dissemin)** [![GitHub stars](https://img.shields.io/github/stars/dissemin/dissemin?style=social&color=white)](https://github.com/dissemin/dissemin/stargazers)  
+- **[Dissemin](https://github.com/dissemin/dissemin)** [![GitHub_Stars](https://img.shields.io/github/stars/dissemin/dissemin?style=social&color=white)](https://github.com/dissemin/dissemin/stargazers)  
   🔎 Open-access discovery platform that scans research papers behind paywalls, checks author rights and repository policies, and automates deposit into open repositories with one click.
 
-- **[OpenAlex Platform](https://github.com/ourresearch/openalex-guts)** [![GitHub stars](https://img.shields.io/github/stars/ourresearch/openalex-guts?style=social&color=white)](https://github.com/ourresearch/openalex-guts/stargazers)  
+- **[OpenAlex Platform](https://github.com/ourresearch/openalex-guts)** [![GitHub_Stars](https://img.shields.io/github/stars/ourresearch/openalex-guts?style=social&color=white)](https://github.com/ourresearch/openalex-guts/stargazers)  
   📈 Open and comprehensive bibliographic index and scientific knowledge graph cataloging over 250M scientific works, authors, institutions, and topics (OurResearch).
 
-- **[EPrints](https://github.com/eprints/eprints)** [![GitHub stars](https://img.shields.io/github/stars/eprints/eprints?style=social&color=white)](https://github.com/eprints/eprints/stargazers)  
+- **[EPrints](https://github.com/eprints/eprints)** [![GitHub_Stars](https://img.shields.io/github/stars/eprints/eprints?style=social&color=white)](https://github.com/eprints/eprints/stargazers)  
   📚 Pioneering open-access digital repository platform created by the University of Southampton, offering customizable metadata workflows and open-access deposit pipelines.
 
-- **[DSpace-CRIS](https://github.com/4Science/DSpace)** [![GitHub stars](https://img.shields.io/github/stars/4Science/DSpace?style=social&color=white)](https://github.com/4Science/DSpace/stargazers)  
+- **[DSpace-CRIS](https://github.com/4Science/DSpace)** [![GitHub_Stars](https://img.shields.io/github/stars/4Science/DSpace?style=social&color=white)](https://github.com/4Science/DSpace/stargazers)  
   ⚙️ Advanced CRIS/RIM extension of DSpace engineered by 4Science. Seamlessly combines institutional repository functionality with comprehensive researcher profiles, projects, and CERIF metrics.
 
-- **[DataCite Bolognese](https://github.com/datacite/bolognese)** [![GitHub stars](https://img.shields.io/github/stars/datacite/bolognese?style=social&color=white)](https://github.com/datacite/bolognese/stargazers)  
+- **[DataCite Bolognese](https://github.com/datacite/bolognese)** [![GitHub_Stars](https://img.shields.io/github/stars/datacite/bolognese?style=social&color=white)](https://github.com/datacite/bolognese/stargazers)  
   🔄 Versatile Ruby library for converting between common scholarly metadata formats, including DataCite, Crossref, Schema.org, BibTeX, RIS, and Codemeta.
 
-- **[Profiles RNS](https://github.com/ProfilesRNS/ProfilesRNS)** [![GitHub stars](https://img.shields.io/github/stars/ProfilesRNS/ProfilesRNS?style=social&color=white)](https://github.com/ProfilesRNS/ProfilesRNS/stargazers)  
+- **[Profiles RNS](https://github.com/ProfilesRNS/ProfilesRNS)** [![GitHub_Stars](https://img.shields.io/github/stars/ProfilesRNS/ProfilesRNS?style=social&color=white)](https://github.com/ProfilesRNS/ProfilesRNS/stargazers)  
   🩺 Open-source research networking and biomedical profiling system developed by Harvard Catalyst to discover collaborators and illustrate institutional biomedical expertise.
 
 ---
@@ -176,7 +176,7 @@ Contributions from research managers, librarians, scholarly communications speci
 2. 🌿 **Create a new branch**: `git checkout -b add-platform-entry`.
 3. 📝 **Add or update an entry**:
    - For **Commercial SaaS**: Include product name, official link, 1–2 sentence description, parent company size, specific starting tier pricing, and explicit free tier / trial limits.
-   - For **Open-Source GitHub Projects**: Include repository name, GitHub link, star badge `[![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`, and concise description.
+   - For **Open-Source GitHub Projects**: Include repository name, GitHub link, Stars_Badge `[![GitHub_Stars](https://img.shields.io/github/stars/owner/repo?style=social&color=white)](https://github.com/owner/repo/stargazers)`, and concise description.
 4. 🚀 **Submit a Pull Request** with a brief summary of the addition or revision.
 
 ---
